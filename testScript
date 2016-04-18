@@ -1,0 +1,173 @@
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ ./BBC 
+Wrong argment!
+Input 4 positive integer for number of cooks, cashiers, 
+customers and size of rack, respectively
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ ./BBC 0 0 0 0
+arg illegal, make sure all args are positive integer!
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ ./BBC 0 0 0 a
+arg illegal, make sure all args are positive integer!
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ ./BBC a b c d
+arg illegal, make sure all args are positive integer!
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ ./BBC 1 1 10 1
+		***********Simulation begin!***********
+		Cooks [1], Cashiers [1], Customers [10]
+		***************************************
+
+Cook    	[1]	make a burger.
+Customer	[4]	come.
+Customer	[7]	come.
+Customer	[8]	come.
+Customer	[10]	come.
+Customer	[1]	come.
+Customer	[6]	come.
+Customer	[5]	come.
+Customer	[3]	come.
+Customer	[2]	come.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Customer	[9]	come.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Burger buddies are going home!
+Cook	1 leave.
+Cashier	1 leave.
+		***********Simulation end!***********
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ ./BBC 10 5 20 10
+		***********Simulation begin!***********
+		Cooks [10], Cashiers [5], Customers [20]
+		***************************************
+
+Cook    	[1]	make a burger.
+Cook    	[2]	make a burger.
+Cook    	[3]	make a burger.
+Cook    	[5]	make a burger.
+Cook    	[6]	make a burger.
+Cook    	[4]	make a burger.
+Cook    	[7]	make a burger.
+Cook    	[8]	make a burger.
+Cook    	[9]	make a burger.
+Cook    	[10]	make a burger.
+Customer	[1]	come.
+Customer	[2]	come.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Customer	[5]	come.
+Customer	[8]	come.
+Cashier    	[4]	accepts an order.
+Customer	[9]	come.
+Cashier    	[2]	accepts an order.
+Customer	[10]	come.
+Customer	[13]	come.
+Customer	[15]	come.
+Customer	[16]	come.
+Cashier    	[3]	accepts an order.
+Customer	[3]	come.
+Cashier    	[5]	accepts an order.
+Customer	[11]	come.
+Customer	[7]	come.
+Customer	[12]	come.
+Customer	[4]	come.
+Customer	[14]	come.
+Cashier    	[4]	take a burger to customer.
+Customer	[6]	come.
+Cashier    	[2]	take a burger to customer.
+Customer	[18]	come.
+Customer	[19]	come.
+Customer	[20]	come.
+Customer	[17]	come.
+Cashier    	[3]	take a burger to customer.
+Cashier    	[5]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cook    	[2]	make a burger.
+Cook    	[4]	make a burger.
+Cashier    	[1]	accepts an order.
+Cook    	[6]	make a burger.
+Cashier    	[1]	take a burger to customer.
+Cook    	[3]	make a burger.
+Cook    	[7]	make a burger.
+Cashier    	[4]	accepts an order.
+Cashier    	[2]	accepts an order.
+Cashier    	[4]	take a burger to customer.
+Cashier    	[3]	accepts an order.
+Cashier    	[2]	take a burger to customer.
+Cashier    	[5]	accepts an order.
+Cook    	[5]	make a burger.
+Cashier    	[5]	take a burger to customer.
+Cook    	[8]	make a burger.
+Cashier    	[3]	take a burger to customer.
+Cook    	[9]	make a burger.
+Cook    	[10]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[1]	make a burger.
+Cashier    	[4]	accepts an order.
+Cashier    	[4]	take a burger to customer.
+Cook    	[2]	make a burger.
+Cashier    	[2]	accepts an order.
+Cashier    	[2]	take a burger to customer.
+Cook    	[4]	make a burger.
+Cashier    	[5]	accepts an order.
+Cashier    	[5]	take a burger to customer.
+Cashier    	[3]	accepts an order.
+Cook    	[6]	make a burger.
+Cashier    	[3]	take a burger to customer.
+Cook    	[3]	make a burger.
+Cashier    	[1]	accepts an order.
+Cashier    	[1]	take a burger to customer.
+Cook    	[7]	make a burger.
+Cashier    	[4]	accepts an order.
+Cashier    	[4]	take a burger to customer.
+Cook    	[5]	make a burger.
+Cashier    	[2]	accepts an order.
+Cashier    	[2]	take a burger to customer.
+Cook    	[8]	make a burger.
+Cashier    	[5]	accepts an order.
+Cashier    	[5]	take a burger to customer.
+Cook    	[9]	make a burger.
+Cashier    	[3]	accepts an order.
+Cashier    	[3]	take a burger to customer.
+Cook    	[6]	make a burger.
+Burger buddies are going home!
+Cook	1 leave.
+Cook	2 leave.
+Cook	3 leave.
+Cook	4 leave.
+Cook	5 leave.
+Cook	6 leave.
+Cook	7 leave.
+Cook	8 leave.
+Cook	9 leave.
+Cook	10 leave.
+Cashier	1 leave.
+Cashier	2 leave.
+Cashier	3 leave.
+Cashier	4 leave.
+Cashier	5 leave.
+		***********Simulation end!***********
+dzh@dzh-ubuntu:~/Desktop/OsPrj1/codeblocks/buddies$ 
+
